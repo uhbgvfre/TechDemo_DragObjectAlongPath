@@ -1,5 +1,5 @@
-# TechDemo_DragOnPath
-Implement "drag object on path" behaviour with Unity plugin: TouchScript &amp; BézierPathCreator
+# TechDemo_DragObjectAlongPath
+Implement "drag object along path" behaviour with Unity plugin: TouchScript &amp; BézierPathCreator
 
 ## Using plugins
 - [Touch Script](https://assetstore.unity.com/packages/tools/input-management/touchscript-7394)：  
